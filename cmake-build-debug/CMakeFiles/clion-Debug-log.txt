@@ -1,0 +1,10 @@
+"E:\exe\ide\jetbrain\CLion\CLion 2023.1.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S F:\language\C\code\CLionProjects\AlgorithmAnalysisAndDataStructure -B F:\language\C\code\CLionProjects\AlgorithmAnalysisAndDataStructure\cmake-build-debug
+-- The C compiler identification is GNU 12.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: G:/minGw/mingw32/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/language/C/code/CLionProjects/AlgorithmAnalysisAndDataStructure/cmake-build-debug

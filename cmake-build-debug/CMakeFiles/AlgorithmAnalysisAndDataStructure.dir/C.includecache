@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/language/C/code/CLionProjects/AlgorithmAnalysisAndDataStructure/lib/header.h
+
+F:/language/C/code/CLionProjects/AlgorithmAnalysisAndDataStructure/src/main.c
+stdio.h
+-
+../lib/header.h
+F:/language/C/code/CLionProjects/AlgorithmAnalysisAndDataStructure/lib/header.h
+
